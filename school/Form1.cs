@@ -19,7 +19,8 @@ namespace school
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine ("Bibi");
+            Console.WriteLine ("Bye Bye");
+            Console.WriteLine ("Bye Bye Thank you");
         }
     }
 }
